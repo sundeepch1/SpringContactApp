@@ -1,4 +1,4 @@
-package in.sundeep.capp.controller;
+package com.skc.capp.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

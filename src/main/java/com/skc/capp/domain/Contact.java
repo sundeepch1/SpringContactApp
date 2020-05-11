@@ -1,4 +1,4 @@
-package in.sundeep.capp.domain;
+package com.skc.capp.domain;
 
 public class Contact {
     private Integer contactId; //PK

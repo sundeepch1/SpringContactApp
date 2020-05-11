@@ -1,4 +1,4 @@
-package in.sundeep.capp.config;
+package com.skc.capp.config;
 
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.springframework.context.annotation.Bean;
@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@ComponentScan(basePackages= {"in.sundeep.capp.dao","in.sundeep.capp.service"})
+@ComponentScan(basePackages= {"com.skc.capp.dao","com.skc.capp.service"})
 public class SpringRootConfig {
 
 	//TODO: Services, DAO, DataSource, Email Sender or some other business layer beans   

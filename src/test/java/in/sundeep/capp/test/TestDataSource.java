@@ -6,7 +6,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.jdbc.core.JdbcTemplate;
 
-import in.sundeep.capp.config.SpringRootConfig;
+import com.skc.capp.config.SpringRootConfig;
 
 public class TestDataSource {
 

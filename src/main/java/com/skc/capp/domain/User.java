@@ -1,4 +1,4 @@
-package in.sundeep.capp.domain;
+package com.skc.capp.domain;
 
 public class User {
     private Integer userId;

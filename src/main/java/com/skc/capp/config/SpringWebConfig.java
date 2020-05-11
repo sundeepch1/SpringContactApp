@@ -1,6 +1,5 @@
-package in.sundeep.capp.config;
+package com.skc.capp.config;
 
-import org.apache.taglibs.standard.tlv.JstlBaseTLV;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -12,7 +11,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
 @Configuration
-@ComponentScan(basePackages= {"in.sundeep"})
+@ComponentScan(basePackages= {"com.skc"})
 @EnableWebMvc
 public class SpringWebConfig extends WebMvcConfigurerAdapter {
 

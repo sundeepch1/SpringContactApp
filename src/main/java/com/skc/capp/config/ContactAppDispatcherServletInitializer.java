@@ -1,4 +1,4 @@
-package in.sundeep.capp.config;
+package com.skc.capp.config;
 
 import javax.servlet.ServletContext;
 import javax.servlet.ServletException;
