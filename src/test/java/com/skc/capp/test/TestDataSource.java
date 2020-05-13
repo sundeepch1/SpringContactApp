@@ -1,4 +1,4 @@
-package in.sundeep.capp.test;
+package com.skc.capp.test;
 
 import javax.sql.DataSource;
 
